@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-🔭 I’m currently working on **Flutter & Mobile App Development (Android & iOS)**
-🌱 I’m currently learning **AI integrations, Web3 (Wallets & NFTs), and Automation (Make.com & n8n)**
-👯 I’m looking to collaborate on **open‑source Flutter, Mobile, and AI‑powered products**
-💬 Ask me about **Flutter, Android, Firebase, APIs, App Architecture, and Freelancing on Fiverr**
-⚡ Fun fact: I turn ideas into production‑ready apps faster than coffee cools ☕📱
+🔭 I’m currently working on **Flutter & Mobile App Development (Android & iOS)**  
+🌱 I’m currently learning **AI integrations, Web3 (Wallets & NFTs), and Automation (Make.com & n8n)**  
+👯 I’m looking to collaborate on **open‑source Flutter, Mobile, and AI‑powered products**  
+💬 Ask me about **Flutter, Android, Firebase, APIs, App Architecture, and Freelancing on Fiverr**  
+⚡ Fun fact: I turn ideas into production‑ready apps faster than coffee cools ☕📱  
 😄 Pronouns: **He/Him**
 
 ---
