@@ -31,9 +31,9 @@ Three years ago, I created my Fiverr profile with a simple goal: **deliver hones
 
 I started small:
 
-* Late nights fixing bugs 🔧
+* Late nights fixing bugs 
 * Learning from rejections 
-* Over‑delivering on every single order ✅
+* Over‑delivering on every single order 
 
 Slowly, things changed.
 
