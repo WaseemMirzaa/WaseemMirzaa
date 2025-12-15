@@ -66,7 +66,7 @@ This journey taught me one thing:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WaseemMirzaa&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaseemMirzaa&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=WaseemMirzaa&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaseemMirzaa&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
