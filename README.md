@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Waseem Mirza 👋</h1>
-<h3 align="center">Mobile App &amp; Web Developer &nbsp;•&nbsp; SEO Specialist</h3>
+<p align="center">
+  <img src="assets/header.svg" alt="Waseem Mirza - Mobile App and Web Developer, SEO Specialist" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/WaseemMirzaa">
