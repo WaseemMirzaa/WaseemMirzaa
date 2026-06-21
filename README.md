@@ -19,14 +19,57 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Mobile App & Web Developer** and **SEO Specialist** with **7+ years on Fiverr**, where I've earned **Top 1% Talent** status by delivering reliable, production-ready apps and websites — and helping them rank — for clients across the **USA, UK, EU, Middle East, and Asia**.
+I'm a **Mobile App & Web Developer** and **SEO Specialist** with **7+ years of freelancing on Fiverr**, ranked in the **Top 1%** of talent worldwide. I help startups, agencies, and businesses turn ideas into **fast, reliable, production-ready apps and websites** — and then make sure they get found through **search**.
 
-- 📱 Building **cross-platform mobile apps (Flutter)** and **modern web apps (React / Next.js)**
-- 📈 Helping clients **rank higher** with **technical SEO, on-page optimization & analytics**
+I care about **clean architecture, great UX, measurable performance, and shipping on time.** From a single-screen MVP to a full product launch on the App Store, Play Store, and the web, I treat every project like my own.
+
+- 📱 Building **cross-platform mobile apps (Flutter)** for Android & iOS
+- 🌐 Crafting **modern web apps & sites** with React, Next.js & WordPress
+- 📈 Helping products **rank higher** with technical SEO, on-page optimization & analytics
+- 🧱 Focused on **clean code, scalable architecture & pixel-perfect UI**
+- 🤝 **296 orders** delivered · **5★ × 213 reviews** — reliability comes first
 - 🌱 Exploring **AI integrations, Web3 (wallets & NFTs), and automation (Make.com & n8n)**
-- 👯 Open to collaborating on **mobile/web products, startup MVPs, and open-source**
 - 💬 Ask me about **Flutter, React, Firebase, APIs, app architecture & SEO**
-- ⚡ I turn ideas into polished products — fast, clean, and built to scale & rank
+
+---
+
+## 🧰 What I Do
+
+| Service | What I Deliver |
+| --- | --- |
+| 📱 **Mobile App Development** | Cross-platform Flutter apps for Android & iOS — from MVP to store launch |
+| 🌐 **Web Development** | Responsive, fast websites & web apps with React, Next.js & WordPress |
+| 📈 **SEO & Growth** | Technical audits, on-page optimization, Core Web Vitals & analytics |
+| 🔌 **APIs & Integrations** | REST/GraphQL, Firebase, payments, maps, push notifications & automation |
+| 🛠️ **Maintenance & Support** | Bug fixes, performance tuning, feature updates & ongoing optimization |
+
+---
+
+## 🎯 Core Expertise
+
+**📱 Mobile Development**
+- Cross-platform apps with **Flutter** (one codebase → Android + iOS)
+- State management: **BLoC, Riverpod, Provider, GetX**
+- **Firebase** suite — Auth, Firestore, Storage, Cloud Messaging, Crashlytics
+- **REST & GraphQL** API integration
+- Payments (**Stripe, in-app purchases**), Google Maps, push notifications
+- **Clean Architecture**, responsive layouts & smooth animations
+- **Play Store & App Store** deployment and CI/CD
+
+**🌐 Web Development**
+- **React** & **Next.js** (SSR/SSG) with **TypeScript**
+- Responsive UI with **Tailwind CSS** & modern CSS
+- **WordPress** (custom themes & WooCommerce)
+- **Node.js** backends with REST/GraphQL APIs
+- Performance-first, **SEO-friendly** builds
+
+**📈 SEO & Analytics**
+- Technical SEO **audits** & on-page optimization
+- **Keyword research** & content strategy
+- **Core Web Vitals** & site-speed optimization
+- **Structured data / schema** markup
+- **Google Analytics (GA4)**, Search Console & Tag Manager
+- **Local SEO** and ongoing performance reporting
 
 ---
 
@@ -102,6 +145,38 @@ I'm a **Mobile App & Web Developer** and **SEO Specialist** with **7+ years on F
 
 ---
 
+## 🚀 What I Build
+
+| Category | Examples |
+| --- | --- |
+| 📱 **Mobile Apps** | E-commerce, social, booking, fitness, fintech, on-demand & delivery apps |
+| 🌐 **Websites** | Business sites, landing pages, portfolios, blogs & WooCommerce stores |
+| 🧩 **Web Apps** | Dashboards, admin panels, SaaS MVPs & real-time apps |
+| 📈 **SEO Projects** | Site audits, on-page optimization, speed/Core Web Vitals & content strategy |
+
+> 📌 My **pinned repositories** below highlight some of my latest work.
+
+<!--
+Tip: Add your standout projects here as a table, then remove these comment markers.
+
+| Project | Description | Tech | Link |
+| --- | --- | --- | --- |
+| **App Name** | One line on what it does and the problem it solves | Flutter · Firebase | [Repo](https://github.com/WaseemMirzaa/repo) |
+| **Website Name** | One line on what it does | Next.js · Tailwind | [Live](https://example.com) |
+-->
+
+---
+
+## 🔄 How I Work
+
+1. **Discover** — understand your goals, users, and scope, then agree on a clear plan
+2. **Design & Architect** — wireframes, data models, and milestones with a realistic timeline
+3. **Build** — clean, tested, well-documented code with regular progress updates
+4. **Launch** — deploy to the App Store, Play Store, or web with performance & SEO checks
+5. **Support** — post-launch fixes, iterations, and ongoing optimization
+
+---
+
 ## 🏆 Fiverr Journey
 
 <p>
@@ -144,29 +219,20 @@ Today that approach has earned me:
 
 ---
 
-## 🤝 Open to Collaboration
-
-I'm always happy to connect on:
-
-- 📱 **Mobile apps** (Flutter) & **web apps** (React / Next.js)
-- 🚀 **Startup MVPs** and production-ready products
-- 🔍 **SEO & growth** — ranking, audits, and optimization
-- 📦 **Open-source** packages & contributions
-
----
-
 ## 🌄 Beyond Code
 
 When I'm not building apps or optimizing websites, you'll find me hiking 🥾, camping 🏕, traveling ✈️, and training at the gym 🏋️ — habits that keep me focused, consistent, and sharp, the same mindset I bring to my work.
 
 ---
 
-## 🔗 Let's Connect
+## 🤝 Let's Work Together
+
+Have a project in mind? I'm available for **freelance and contract work** — mobile apps, websites, and SEO.
 
 <p>
-  <a href="mailto:waseemmirzaa@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:waseemmirzaa@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/waseemmirzaa"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.fiverr.com/waseemmirzaa"><img src="https://img.shields.io/badge/Fiverr-1F6FEB?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="https://www.fiverr.com/waseemmirzaa"><img src="https://img.shields.io/badge/Hire%20on%20Fiverr-1F6FEB?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
 </p>
 
 <p align="center"><i>"Build fast. Ship smart. Rank higher." 🚀</i></p>
